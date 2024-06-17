@@ -1,0 +1,7 @@
+.idea
+lib
+tests/server_tests.iml
+tests/tests.iml
+out
+tests/lib
+01ChatAppGitLab.iml
